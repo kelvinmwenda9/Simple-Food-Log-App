@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Simple-Food-Log-App
+Save the log of your daily meals and keep track of your consumption size in terms of grams and kcals
+>>>>>>> dd2676c798fe77705623414991029bd4896f7977
